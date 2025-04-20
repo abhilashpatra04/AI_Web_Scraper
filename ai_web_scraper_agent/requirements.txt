@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+playwright
+streamlit
+openai  # Optional if you use any free model via OpenRouter
+python-dotenv
