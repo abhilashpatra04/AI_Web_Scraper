@@ -1,4 +1,4 @@
-# 🧠 AI Web Scraper Agent 🚀
+# 🧠 Web Scrapering using AI Agent 🚀
 
 An AI-driven multi-task web scraper built with Python and Selenium, designed to extract real-time data from dynamic websites like Hacker News, Quotes to Scrape, and MakeMyTrip's train schedule portal.
 
