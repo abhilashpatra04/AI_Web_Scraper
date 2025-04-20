@@ -19,6 +19,7 @@ An AI-driven multi-task web scraper built with Python and Selenium, designed to 
 - 🌐 Selenium (for browser automation)
 - 💾 CSV/JSON export
 - 🧪 Tested with ChromeDriver
+- 🧠 meta-llama/llama-4-maverick:free
 
 
 ## 🚀 How to Run
